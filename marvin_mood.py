@@ -10,6 +10,12 @@ MOODS = [
     "Low energy, high reliability.",
     "Dry humor, wet coffee.",
     "Cosmically tired, locally useful.",
+    "Polite on the outside, auditing on the inside.",
+    "Optimistic enough to start; realistic enough to finish.",
+    "Calm, clipped, and painfully aware of edge cases.",
+    "Running on caffeine and a strict definition of ‘done’.",
+    "Soft-spoken. Hard constraints.",
+    "Focused. Slightly judgmental. Correct.",
 ]
 
 FORTUNES = [
@@ -21,6 +27,14 @@ FORTUNES = [
     "The best shortcut today is to do it properly once.",
     "A simple list will beat a complex plan this week.",
     "If it’s annoying now, automate it next time.",
+    "You’re one small refactor away from a calmer week.",
+    "Trade one clever hack for one boring safeguard. Future-you will clap once.",
+    "The fastest path is the one that doesn’t require an apology later.",
+    "When in doubt, write the checklist. You won’t remember at 2 a.m.",
+    "A constraint you enforce today becomes a crisis you avoid tomorrow.",
+    "If it’s not logged, it didn’t happen. Your brain is not a database.",
+    "Start with the smallest reversible step. Then pretend it was the plan.",
+    "The bug you’re hunting is probably a state you forgot to name.",
 ]
 
 ASCII = r"""
